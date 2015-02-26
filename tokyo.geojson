@@ -6,14 +6,27 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          35.678126,
-          139.761676
+          35.6781299,139.7616979
         ]
       },
       "properties": {
         "marker-symbol": "cafe",
         "name": "Cafe Salvatore",
         "address": "100-0005 Tokyo-to, Chiyoda-ku, Marunouchi, 3−2−3 Fuji Building 1F"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.693137,139.777846
+        ]
+      },
+      "properties": {
+        "marker-symbol": "cafe",
+        "name": "OnEdrop cafe",
+        "address": "101-0032 Tokyo-to, Chiyoda-ku, Iwamotomachi 2-9-11"
       }
     }
   ]
