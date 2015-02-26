@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.678126,
+          139.761676
+        ]
+      },
+      "properties": {
+        "marker-symbol": "cafe",
+        "name": "Cafe Salvatore",
+        "address": "100-0005 Tokyo-to, Chiyoda-ku, Marunouchi, 3−2−3 Fuji Building 1F"
+      }
+    }
+  ]
+}
